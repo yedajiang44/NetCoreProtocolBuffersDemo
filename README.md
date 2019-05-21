@@ -1,6 +1,7 @@
 ## 说明
 >* 这是一个基于Net Core平台的谷歌Protocol Buffers协议的Demo
 >* 开发工具为vs2019
+>* Core版本 2.2
 >* Protocol Buffers为Protocol Buffers3
 
 ## 博客地址
